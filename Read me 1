@@ -1,0 +1,2 @@
+Pico’s BOOTSEL mode lives in read-only memory inside the RP2040 chip.
+download  file  & drag into pico storage 
